@@ -9,6 +9,15 @@
   "homepage": "https://www.wati.io",
   "repository": "https://github.com/wati-io/wati-mcp",
   "license": "MIT",
-  "keywords": ["wati", "whatsapp", "instagram", "messaging", "crm", "astra", "mcp"],
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "wati",
+    "whatsapp",
+    "instagram",
+    "messaging",
+    "crm",
+    "astra",
+    "mcp"
+  ],
   "mcpServers": "./mcp.json"
 }
